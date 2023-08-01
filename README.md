@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/ahmadalashtar](www.linkedin.com/in/ahmadalashtar)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
