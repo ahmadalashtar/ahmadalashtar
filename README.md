@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadalashtar" alt="ahmadalashtar" /></a> </p>
 
-- 🔭 I’m currently working on [Cooks Kingdom](https://github.com/HishamWattar/cooks-kingdom)
+- 🔭 I’m currently working on [Cooks Kingdom](https://github.com/ahmadalashtar/soft-robots-studio)
 
 - 📫 How to reach me **ahmadalashtar[at]gmail[dot]com**
 
