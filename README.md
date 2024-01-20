@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/ahmadalashtar](www.linkedin.com/in/ahmadalashtar)
 
+- 🤖 The profile views are incremented by a bot. 
+
 <p align="center">
 </p>
 
