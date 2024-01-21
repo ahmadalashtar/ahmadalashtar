@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadalashtar" alt="ahmadalashtar" /></a> </p>
 
-- 🔭 I’m currently working on [Soft Robots Studio](https://github.com/ahmadalashtar/soft-robots-studio)
+- 🔭 I’m currently working on [Soft Robots Studio](https://github.com/ahmadalashtar/soft-robots-studio) check it out on my LinkedIn
 
 - 📫 How to reach me **ahmadalashtar[at]gmail[dot]com**
 
