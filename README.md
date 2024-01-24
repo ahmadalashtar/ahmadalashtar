@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahmadalashtar[at]gmail[dot]com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ahmadalashtar](www.linkedin.com/in/ahmadalashtar)
+- 📄 Know about my experiences on [LinkedIn](www.linkedin.com/in/ahmadalashtar)
 
 - 🤖 The profile views are incremented by a bot. 
 
