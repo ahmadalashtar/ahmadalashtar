@@ -12,7 +12,7 @@
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ahmadalashtar)
 
 - 🤖 The profile views are incremented by a bot. 
-
+ 
 <p align="center">
 </p>
 
