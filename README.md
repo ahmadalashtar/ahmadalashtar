@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Alashtar</h1>
-<h3 align="center">A software developer</h3>
+<h3 align="center">A software developer</h3><br><br>
 
 - 🔭 I’m currently working on [Soft Robots Studio](https://github.com/ahmadalashtar/soft-robots-studio) check it out on my LinkedIn
 
