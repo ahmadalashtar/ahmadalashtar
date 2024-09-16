@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ahmadalashtar[at]gmail[dot]com**
 
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ahmadalashtar)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ahmadalashtar/)
  
 <p align="center">
 </p>
